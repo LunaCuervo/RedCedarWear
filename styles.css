@@ -1,6 +1,9 @@
 body {
-    background-color: bisque;
+    background-color: rgb(155, 109, 53);
 }
     header{
         background-color: #d4a373;
+    }
+    h1{
+        color: rgb(245, 88, 88);
     }
