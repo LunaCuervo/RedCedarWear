@@ -2,7 +2,7 @@
 
  * {
     font-family: "Open Sans", sans-serif, Helvetica, Arial;
-    margin: 20;
+    margin: 10;
     padding: 0;
  }
 
@@ -19,16 +19,36 @@ header {
 h1 {
     color: rgb(83, 13, 13);
     font-size: 70px;
+    text-align: center;
 }
 
 p {
     color: black;
-    font-size: 45px;
+    font-size: 30px;
     font-weight: 600;
     font-style: normal;
 }
 
+footer { 
+    font-size: 5px;
+}
+
 .clothing {
     color: whitesmoke
-
 }
+
+.sub-title {
+    font-sizing: 30px;
+}
+
+header a {
+    color: rgb(83, 13, 13);
+}
+
+section a {
+    color:orange;
+}
+
+ a:hover {
+    text-decoration: underline;
+ }
