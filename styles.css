@@ -5,11 +5,13 @@
     font-weight: 700;
     margin: 0;
     padding: 0;
+    text-align: center;
  }
 
 body {
     background-color: rgb(155, 109, 53);
     font-size: 14px;
+    text-align: center;
 }
 
 header {
@@ -41,6 +43,7 @@ footer {
 
 .sub-title {
     font-size: 30px;
+    text-align: center;
 }
 
 header a {
