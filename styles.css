@@ -137,3 +137,11 @@ header a {
     background-position: center;
  }
 
+.about-page p {
+  color: rgb(244, 242, 242);                        /* text color */
+  background-color: black;           /* black highlight */
+  display: inline-block;             /* shrink highlight to text width */
+  padding: 4px 8px;                  /* little spacing around text */
+  border-radius: 4px;                /* optional: rounded highlight */
+  margin-top: 17px;
+}
