@@ -42,8 +42,9 @@ footer {
 }
 
 .sub-title {
-    font-size: 30px;
+    font-size: 32px;
     text-align: center;
+    font-style: italic;
 }
 
 header a {
@@ -70,12 +71,11 @@ section a {
  }
 
  #title {
-    border-bottom: 4px solid purple;
+    border-bottom: 4px solid rgb(10, 9, 10);
  }
 
  .ti
  h1 {
-    /* change color */
     border-bottom: 4px solid rgb(141, 24, 24);
  }
 
@@ -125,15 +125,17 @@ section a {
  }
 
 
+
  .imagecontainer2 {
     width: 400px;
     Height: 400px;
     border: 1px solid black;
-    background-image: url ("https://www.thebrownbear.ca/cdn/shop/files/POD1892NAPK.jpg?v=1749738834&width=1200");
-    Background-color: red;
+    /* Why is my image not showing up as a background */
+    background-image: url("https://www.thebrownbear.ca/cdn/shop/files/POD1892NAPK.jpg?v=1749738834&width=1200");
+    Background-color: rgb(251, 244, 244);
     background-repeat: no-repeat;
     background-size: contain; 
     background-size: cover;
-    /* usually wants to be towards the center*/
+    /* Why is this not in the center? */
     background-position: center;
  }
