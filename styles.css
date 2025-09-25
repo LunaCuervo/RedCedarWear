@@ -70,7 +70,6 @@ header a {
     color: rgb(254, 254, 254);
 }
 
-
  a:hover {
     text-decoration-color:rgb(238, 172, 74); 
  }
@@ -87,6 +86,7 @@ header a {
     /* margin: 30px 15px 25px; */
     margin: 15px 45px 10px 30px;
  }
+
 
  #title {
     border-bottom: 4px solid rgb(231, 228, 231);
@@ -136,3 +136,4 @@ header a {
     /* Why is this not in the center? */
     background-position: center;
  }
+
