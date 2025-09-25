@@ -8,9 +8,9 @@
     text-align: center;
  }
 
-body {
+body { 
     background-color: rgb(155, 109, 53);
-    font-size: 14px;
+    font-size: 10px;
     text-align: center;
 }
 
@@ -112,8 +112,8 @@ section a {
  }
 
  .img-container {
-    width: 400px
-    Height: 400px
+    width: 400px;
+    Height: 400px;
     border: 1px solid black;
     background-image: url ("./assets/gratitudeportal.png");
     Background-color: red;
@@ -125,9 +125,9 @@ section a {
  }
 
 
- .img-container2 {
-    width: 400px
-    Height: 400px
+ .imgagecontainer2 {
+    width: 400px;
+    Height: 400px;
     border: 1px solid black;
     background-image: url ("https://www.thebrownbear.ca/cdn/shop/files/POD1892NAPK.jpg?v=1749738834&width=1200");
     Background-color: red;
