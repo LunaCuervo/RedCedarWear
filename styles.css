@@ -38,7 +38,7 @@ footer {
 }
 
 .clothing {
-    color: rgb(47, 23, 106)
+    color: rgb(23, 12, 50)
 }
 
 .sub-title {
@@ -62,7 +62,7 @@ section a {
     box-sizing: border-box;
  }
  .div-1 {
-    background-color: aquamarine;
+    background-color: rgb(169, 147, 35);
     /* margin: 25px; */
     /* margin: 25px 50px; */
     /* margin: 30px 15px 25px; */
@@ -117,4 +117,6 @@ section a {
     border: 1px solid black;
     background-image:  ("./assets/gratitudeportal.png");
     background-repeat: no-repeat;
+    background-size: contain; 
+    background-size: cover;
  }
