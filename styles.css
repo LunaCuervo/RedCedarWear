@@ -115,7 +115,7 @@ section a {
     width: 400px;
     Height: 400px;
     border: 1px solid black;
-    background-image: url ("./assets/gratitudeportal.png");
+    background-image: ("../assets/gratitudeportal.png");
     Background-color: red;
     background-repeat: no-repeat;
     background-size: contain; 
@@ -125,7 +125,7 @@ section a {
  }
 
 
- .imgagecontainer2 {
+ .imagecontainer2 {
     width: 400px;
     Height: 400px;
     border: 1px solid black;
