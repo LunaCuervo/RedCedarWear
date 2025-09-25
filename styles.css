@@ -48,7 +48,7 @@ footer {
 }
 
 header a {
-    color: rgb(83, 13, 13);
+    color: rgb(254, 254, 254);
 }
 
 section a {
@@ -63,7 +63,7 @@ section a {
     box-sizing: border-box;
  }
  .div-1 {
-    background-color: rgb(169, 147, 35);
+    background-color: rgb(241, 249, 244);
     /* margin: 25px; */
     /* margin: 25px 50px; */
     /* margin: 30px 15px 25px; */
@@ -115,8 +115,8 @@ section a {
     width: 400px;
     Height: 400px;
     border: 1px solid black;
-    background-image: ("../assets/gratitudeportal.png");
-    Background-color: red;
+    background-image: ("/Users/alexandrahall/Desktop/Code/Website/RedCedarWear/assets /gratitudeportal.png");
+    Background-color: rgb(254, 249, 249);
     background-repeat: no-repeat;
     background-size: contain; 
     background-size: cover;
