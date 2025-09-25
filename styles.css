@@ -61,6 +61,11 @@ footer {
     font-style: italic;
 }
 
+/* list font sizes for all  */
+ul li {
+  font-size: 15px; 
+}
+
 header a {
     color: rgb(254, 254, 254);
 }
@@ -74,8 +79,9 @@ header a {
     box-sizing: border-box;
  }
 
+ /* color of content box */
  .div-1 {
-    background-color: rgb(241, 249, 244);
+    background-color: rgb(8, 8, 8);
     /* margin: 25px; */
     /* margin: 25px 50px; */
     /* margin: 30px 15px 25px; */
@@ -83,14 +89,13 @@ header a {
  }
 
  #title {
-    border-bottom: 4px solid rgb(10, 9, 10);
+    border-bottom: 4px solid rgb(231, 228, 231);
  }
 
  .ti
  h1 {
     border-bottom: 4px solid rgb(141, 24, 24);
  }
-
 
  .content-box {
    width: 100px;
@@ -101,6 +106,7 @@ header a {
    box-sizing: content-box;
  }
 
+ /* under red cedar wear */
  .border-box {
    width: 100px;
    height: 100px;
