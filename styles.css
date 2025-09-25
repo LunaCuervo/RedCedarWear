@@ -102,4 +102,19 @@ section a {
     background-color:blueviolet
     width: 100px;
     height: 100px;
+    /* this tick only works on block level elemnets */
+    margin: 0 auto;
+ }
+
+ img {
+    /* display: block*/
+    margin: 0 auto;
+ }
+
+ .img-container {
+    width: 400px
+    Height: 400px
+    border: 1px solid black;
+    background-image:  ("./assets/gratitudeportal.png");
+    background-repeat: no-repeat;
  }
