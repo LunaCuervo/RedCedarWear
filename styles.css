@@ -139,6 +139,7 @@ header a {
 
 .about-page p {
   color: rgb(244, 242, 242);                        /* text color */
+  font-size: 15px;
   background-color: black;           /* black highlight */
   display: inline-block;             /* shrink highlight to text width */
   padding: 4px 8px;                  /* little spacing around text */
